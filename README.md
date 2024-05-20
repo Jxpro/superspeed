@@ -20,7 +20,7 @@ bash <(curl -Lso- https://raw.githubusercontent.com/uxh/superspeed/master/supers
 
 节点更新时间：2022年11月28日
 
-脚本更新时间：2022年11月28日
+脚本更新时间：2024年5月20日
 
 ---
 
